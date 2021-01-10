@@ -1,0 +1,91 @@
+Sampling (music)
+This article is about reusing existing sound recordings in creating new works. For other uses, see Sampling and Sample (disambiguation).
+
+DJ Premier selecting records to sample
+In music, sampling is the reuse of a portion (or sample) of a sound recording in another recording. Samples may comprise elements such as rhythm, melody, speech, sounds, or entire bars of music, and may be layered, equalized, sped up or slowed down, repitched, looped, or otherwise manipulated. They are usually integrated using hardware (samplers) or software such as digital audio workstations.
+
+A process similar to sampling originated in the 1940s with musique concrète, experimental music created by splicing and looping tape. The mid-20th century saw the introduction of keyboard instruments that played back sounds recorded on tape, such as the Mellotron. The term sampling was coined in the late 1970s by the creators of the Fairlight CMI, a synthesizer with sampling features. Initially, samplers were unaffordable for most musicians and could only play back short sounds; as technology improved, cheaper samplers with more memory emerged, such as the E-mu Emulator, Akai S950, and Akai MPC.
+
+Sampling is a foundation of hip hop music, which emerged with 1980s producers sampling funk and soul records, particularly drum breaks, to be rapped over. Sampling has since influenced all genres of music, particularly electronic music and pop. Samples such as the Amen break, "Funky Drummer" drum break, and orchestra hit have been used in thousands of recordings. The first album created entirely from samples, Endtroducing by DJ Shadow, was released in 1996.
+
+Sampling without permission can infringe copyright. The process of acquiring permission for a sample is known as clearance, a potentially complex and costly process. Landmark legal cases, such as Grand Upright Music, Ltd. v. Warner Bros. Records Inc (1991), changed how samples are used. As the court in the 1991 case ruled that unlicensed sampling constitutes copyright infringement, samples from well-known sources are now often prohibitively expensive.
+
+Precursors
+In the 1940s, French composer Pierre Schaeffer developed musique concrète, an experimental form of music created by recording sounds to tape, splicing them, and manipulating them to create sound collages. He used sounds from sources such as the human body, locomotives, and kitchen utensils.[1] The method also involved tape loops, splicing lengths of tape end to end so a sound could be played indefinitely.[1] Schaeffer developed the Phonogene, which played loops at 12 different pitches triggered by a keyboard.[1]
+
+Composers including John Cage, Edgar Varèse, Karheinz Stockhausen and Iannis Xenakis experimented with musique concrète,[1] and Bebe and Louis Barron used it to create the first totally electronic film soundtrack, for the 1956 science fiction film Forbidden Planet. Musique concrète was brought to a mainstream audience by the BBC Radiophonic Workshop, which used these early sampling techniques to produce soundtracks for shows including Doctor Who.[1]
+
+In the 1960s, Jamaican dub reggae producers such as King Tubby and Lee "Scratch" Perry began using pre-recorded samples of reggae rhythms to produce riddim tracks, which were then deejayed over.[2][3] Jamaican immigrants introduced dub sampling techniques to American hip hop music in the 1970s.[3] British producer Brian Eno cited German musician Holger Czukay's experiments with Dictaphones and shortwave radios as examples of early sampling.[4]
+
+Samplers
+Main article: Sampler (musical instrument)
+
+The Fairlight CMI, a sampler and synthesizer released in 1979. The designers coined the term sampling to describe its features
+The Guardian described the Chamberlin as the first sampler, developed by the English engineer Harry Chamberlin in the 1940s. The Chamberlin used a keyboard to trigger a series of tape decks, each containing eight seconds of recorded sound. Similar technology was popularised in the 60s with the Mellotron.[5] In 1969, the English engineer Peter Zinovieff developed the first digital sampler, the EMS Musys.[5]
+
+The term sample was coined by Kim Ryrie and Peter Vogel to describe a feature of their Fairlight CMI synthesizer, launched in 1979.[1] While developing the Fairlight, Vogel recorded around a second of a piano piece from a radio broadcast, and discovered that he could imitate a piano by playing the recording back at different pitches. He recalled in 2005:
+
+It sounded remarkably like a piano, a real piano. This had never been done before ... By today's standards it was a pretty awful piano sound, but at the time it was a million times more like a piano than anything any synthesiser had churned out. So I rapidly realised that we didn't have to bother with all the synthesis stuff. Just take the sounds, whack them in the memory and away you go.[6]
+
+The Fairlight developers used the term sampler to describe the technical process of the instrument, rather than how users would use the feature.[7] Compared to later samplers, the Fairlight offered limited control over samples; it allowed control over pitch and envelope, and could only record a few seconds of sound. However, the sampling function became its most popular feature.[1] Though the concept of reusing recordings in larger recordings was not new, the Fairlight's design and built-in sequencer made the process simple.[1]
+
+
+The Akai MPC, an influential sampler produced from 1988
+The Fairlight inspired competition, improving sampling technology and driving down prices.[1] Early competitors included the E-mu Emulator[1] and the Akai S950.[8] Drum machines such as the Oberheim DMX and Linn LM-1 incorporated samples of drum kits and percussion rather than generating sounds from circuits.[9] Early samplers could store samples of only a few seconds in length, but this increased with improved memory.[7]
+
+In 1988, Akai released the first MPC sampler,[10] which allowed users to assign samples to pads and trigger them independently, similarly to playing a keyboard or drum kit.[11] It was followed by competing samplers from companies including Korg, Roland and Casio.[12] Today, most samples are recorded and edited using digital audio workstations such as Pro Tools and Ableton Live.[13][7]
+
+Impact
+Sampling has influenced all genres of music.[5] It is a particularly important part of pop, hip hop, and electronic music,[14] equivalent to the importance of the guitar in rock.[5] It is a fundamental element of remix culture.[15] Commonly sampled elements include strings, basslines, drum loops, vocal hooks, or entire bars of music, especially from soul records.[16] Samples may be layered,[17] equalized,[17] sped up or slowed down, repitched, looped, or otherwise manipulated.[14] As sampling technology has improved, the possibilities for manipulation have grown.[14]
+
+Using the Fairlight, the "first truly world-changing sampler",[5] producer Trevor Horn became the "key architect" in incorporating sampling into pop music.[5] Other users of the Fairlight included Kate Bush, Peter Gabriel, Thomas Dolby, Duran Duran, Herbie Hancock, Todd Rundgren, Icehouse and Ebn Ozn.[8] In the 1980s, samples were incorporated into synthesizers and music workstations, such as in the bestselling Korg M1, released in 1988.[12]
+
+The Akai MPC, released in 1988, had a major influence on the development of electronic and hip hop music,[18][11] allowing artists to create elaborate tracks without other instruments, a studio, or formal music knowledge.[11] Its designers anticipated that users would sample short sounds, such as individual notes or drum hits, to use as building blocks for compositions. However, users began sampling longer passages of music.[7] In the words of Greg Milner, author of Perfecting Sound Forever, musicians "didn't just want the sound of John Bonham's kick drum, they wanted to loop and repeat the whole of 'When the Levee Breaks'."[7] Roger Linn, designer of the MPC, said: "It was a very pleasant surprise. After 60 years of recording, there are so many prerecorded examples to sample from. Why reinvent the wheel?"[7]
+
+
+DJ Shadow's 1996 album Endtroducing is cited as the first created entirely from samples.
+Stevie Wonder's 1979 album Journey Through the Secret Life of Plants may have been the first album to make extensive use of samples.[5] The Japanese electronic band Yellow Magic Orchestra were pioneers in sampling,[19][20][21] constructing music by cutting fragments of sounds and looping them;[21] their album Technodelic (1981) is an early example of an album consisting mostly of samples.[20][22] My Life in the Bush of Ghosts (1981) by David Byrne and Brian Eno is another important early work of sampling, incorporating samples of sources including Arabic singers, radio DJs and an exorcist.[23] Though Eno acknowledged earlier examples of sampling, he felt the album's innovation was to make samples "the lead vocal".[4] Big Audio Dynamite pioneered sampling in rock and pop with their 1985 album This Is Big Audio Dynamite.[24] Guinness World Records cites DJ Shadow's 1996 album Endtroducing as the first created entirely from samples.[25][26]
+
+Hip hop
+Sampling is the foundation of hip hop, which emerged in the 1980s.[27] The sampling culture of hip hop has been likened to the origins of blues and rock, which were created by repurposing existing music.[15] Guardian journalist David McNamee wrote that, in the 1980s, sampling in hip hop had been a political act, the "working-class black answer to punk".[13]
+
+Before the rise of sampling, DJs had used turntables to loop breaks from records, which MCs would rap over.[28] Compilation albums such as Ultimate Breaks and Beats comprised tracks with drum breaks and solos intended for sampling, and were aimed at DJs and hip hop producers.[28] In 1986, the tracks "South Bronx", "Erik B is President" and "It's a Demo" sampled the funk and soul tracks of James Brown, particularly a drum break from "Funky Drummer", helping popularize the technique.[14] The advent of affordable samplers such as the Akai MPC (1988) made looping easier.[28] With a ten-second sample length and a distinctive "gritty" sound, the E-mu SP-1200, released in 1987, was used extensively by East Coast producers during the golden age of hip hop of the late 1980s and early 90s.[29]
+
+Common samples
+
+The Amen break
+MENU0:00
+The widely sampled "Amen break" as it originally appeared, on "Amen, Brother" (1969) by the Winstons
+Problems playing this file? See media help.
+The drum pattern in Led Zeppelin's recording of "When the Levee Breaks", played by John Bonham, is one of the most widely sampled in music, used by artists including the Beastie Boys, Dr. Dre, Eminem and Massive Attack.[30] A seven-second drum break in the 1969 track "Amen, Brother", known as the Amen break, became popular with American hip hop producers and then British jungle producers in the early 1990s.[28] It has since been used in thousands of recordings, by rock bands such as Oasis and in theme tunes for television shows such as Futurama.[28] The drum break from the 1970 James Brown song "Funky Drummer" is one of the most influential pieces of sampled music.[31]
+
+
+"Straight Outta Compton (song)"
+MENU0:00
+"Straight Outta Compton" (1988) by N.W.A., featuring a manipulated sample of the Amen break
+Problems playing this file? See media help.
+The most sampled track of all time is "Change the Beat" by Fab Five Freddy, which appears on over 1,150 tracks.[32] Another common sample, the orchestra hit, originated as a sound on the Fairlight sampled from Stravinsky's 1910 orchestral work Firebird Suite[33] and became a hip hop cliche.[34] MusicRadar cited the Zero-G Datafiles sample libraries as a major influence on dance music in the early 90s, becoming the "de facto source of breakbeats, bass and vocal samples".[35]
+
+According to the Independent, the American diva Loleatta Holloway had "undoubtedly the most sampled female voice in popular music", used in house and dance tracks such as "Ride on Time", the bestselling single of 1989.[36] According to the site WhoSampled, which catalogs samples, James Brown is the most sampled artist of all time, appearing in more than 3000 tracks.[37]
+
+Legal and ethical issues
+To legally use a sample, an artist must acquire legal permission from the copyright holder, a potentially lengthy and complex process known as clearance.[16] Sampling without permission can breach the copyright of the original sound recording, of the composition and lyrics, and of the performances, such as a rhythm or guitar riff. The moral rights of the original artist may also be breached if they are not credited or object to the sampling.[16] In some cases, sampling is protected under American fair use laws,[16] which grant "limited use of copyrighted material without permission from the rights holder".[38]
+
+
+Biz Markie in 2016
+Richard Lewis Spencer, who owns the copyright for the widely sampled Amen break, has never received royalties for its use and condemned its sampling as plagiarism.[28] Journalist Simon Reynolds likened the situation to "the man who goes to the sperm bank and unknowingly sires hundreds of children".[28] In 1989, the Turtles sued De La Soul for using an uncleared sample on their album 3 Feet High and Rising. Turtles singer Mark Volman told the Los Angeles Times: "Sampling is just a longer term for theft. Anybody who can honestly say sampling is some sort of creativity has never done anything creative."[39] The case was settled out of court and set a legal precedent that had a chilling effect on sampling in hip hop.[39]
+
+In 1991, songwriter Gilbert O'Sullivan sued rapper Biz Markie after he sampled O'Sullivan's "Alone Again (Naturally)" on the album I Need a Haircut. The court ruled that sampling without permission infringed copyright. Instead of asking for royalties, O'Sullivan forced Biz Markie's label Warner Bros to recall the album until the song was removed.[40] Nelson George described it as the "most damaging example of anti-hip hop vindictiveness", which "sent a chill through the industry that is still felt".[40] The Washington Post wrote in 2018 that "no court decision has changed the sound of pop music as much as this", likening it to banning a musical instrument.[41]
+
+Since the O'Sullivan lawsuit, samples on commercial recordings have typically been taken either from obscure recordings or cleared, an often expensive option only available to successful acts.[41] According to the Guardian, "Sampling became risky business and a rich man's game, with record labels regularly checking if their musical property had been tea-leafed."[13] For less successful artists, the legal implications of using samples pose obstacles; according to Fact, "For a bedroom producer, clearing a sample can be nearly impossible, both financially and in terms of administration."[14]
+
+The 1989 Beastie Boys album Paul's Boutique is composed almost entirely of samples, most of which were cleared "easily and affordably"; the clearance process would be much more expensive today.[42] In 2000, jazz flautist James Newton filed a claim against the Beastie Boys' 1992 single "Pass the Mic", which samples his composition "Choir". The judge found that the sample, comprising six seconds and three notes, was de minimis and did not require clearance. Newton lost appeals in 2003 and 2004.[43]
+
+The Washington Post described the modern use of well known samples, such as on records by Kanye West, as an act of conspicuous consumption similar to flaunting cars or jewellery.[41] West has been sued several times over his use of samples.[14] Some have accused the law of restricting creativity, while others argue it forces producers to innovate.[41] Sampling can help popularize the sampled work; for example, the Desiigner track "Panda" topped the Billboard Hot 100 after West sampled it on "Father Stretch My Hands, Pt. 2".[14]
+
+According to Fact, early hip hop sampling was governed by "unspoken" rules forbidding the sampling of recent records, reissues, other hip hop records, or from non-vinyl sources, among other restrictions.[27] These rules were relaxed as younger producers took over: "For many producers today it is no longer a case of 'should I sample this?' but of 'can I get away with sampling this?'. Thus the ethics of sampling unravelled as the practice became ever more ubiquitous."[27]
+
+In 2019, the European Court of Justice ruled that producers Moses Pelham and Martin Haas had illegally sampled a drum sequence from the 1977 Kraftwerk track “Metal on Metal" for the Sabrina Setlur song "Nur Mir".[44] The court ruled that permission was required for recognizable samples; modified, unrecognizable samples could still be used without authorisation.[44]
+
+Recreating samples
+To circumvent legal problems, producers may recreate a recording rather than sample it. This requires only the publisher's permission, and gives the artist more freedom to alter constituent components such as separate guitar and drum tracks.
